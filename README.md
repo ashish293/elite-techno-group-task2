@@ -17,12 +17,10 @@ This was the Assignment from Elite Techno group. In this, I have to solve the fo
 
 ## About Project
 
-<hr>
 For Data Analysis, Pandas is used. The raw data of summer olympic and questions is given from our instructor. We have to give the answers and also plot graph in some.
 <br><br>
 
 ## About me
 
-<hr>
 I am Ashsih Burnwal, a Computer Science Engineering Student. I love learning things.<br>
 Linkedin- <a href="https://www.linkedin.com/in/ashish-kumar-burnwal/">here</a>
